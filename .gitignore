@@ -1,0 +1,24 @@
+# Build products
+_release/
+_debug/
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Local editor and operating-system state
+.DS_Store
+._*
+__MACOSX/
+.idea/
+.vscode/
+.vs/
+*.user
+*.swp
+*.log
+
+# Local credentials
+.env
+.env.*
+*.pem
+*.key
